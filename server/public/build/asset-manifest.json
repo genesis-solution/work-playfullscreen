@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ed706ca.css",
+    "main.js": "/static/js/main.906be7e0.js",
+    "static/js/787.f07fd7e7.chunk.js": "/static/js/787.f07fd7e7.chunk.js",
+    "static/media/remixicon.svg?t=1568552893872": "/static/media/remixicon.53c56a2229f782675a80.svg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.1996d4ba5f97d8d2aa16.svg",
+    "static/media/broadcaster.jpg": "/static/media/broadcaster.82f321c06657b518e9b9.jpg",
+    "static/media/remixicon.eot?t=1568552893872": "/static/media/remixicon.c6b9cd5b3b6a46ea21b0.eot",
+    "static/media/remixicon.ttf?t=1568552893872": "/static/media/remixicon.bb667b2eab08b772403b.ttf",
+    "static/media/background.jpg": "/static/media/background.96f67e2fae6da46ffead.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/remixicon.woff?t=1568552893872": "/static/media/remixicon.a7ed33c4fc7098572d9e.woff",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/remixicon.woff2?t=1568552893872": "/static/media/remixicon.6e82901d5c6eb305f60c.woff2",
+    "static/media/texure.jpg": "/static/media/texure.6cd0e4aaa8bd24c2b488.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo.png": "/static/media/logo.25d4bcb40e52ee4f77bb.png",
+    "static/media/p1.jpg": "/static/media/p1.adc3ffc532adfa62c4c0.jpg",
+    "static/media/single-show.jpg": "/static/media/single-show.48aae1bf6d883615fd62.jpg",
+    "static/media/slider1.jpg": "/static/media/slider1.8b691fca61a346a8c3cf.jpg",
+    "static/media/slider2.jpg": "/static/media/slider2.8b691fca61a346a8c3cf.jpg",
+    "static/media/slider3.jpg": "/static/media/slider3.8b691fca61a346a8c3cf.jpg",
+    "static/media/lightning_qr.png": "/static/media/lightning_qr.e403a431c8a26d072dac.png",
+    "static/media/01.jpg": "/static/media/01.ba9c0ae4fc97f13baa39.jpg",
+    "static/media/coinos_logo.png": "/static/media/coinos_logo.8223c3ad0d4d9fb7cfde.png",
+    "static/media/HelveticaNeueBold.woff": "/static/media/HelveticaNeueBold.9746238261ff2fd4644a.woff",
+    "index.html": "/index.html",
+    "main.3ed706ca.css.map": "/static/css/main.3ed706ca.css.map",
+    "main.906be7e0.js.map": "/static/js/main.906be7e0.js.map",
+    "787.f07fd7e7.chunk.js.map": "/static/js/787.f07fd7e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ed706ca.css",
+    "static/js/main.906be7e0.js"
+  ]
+}
